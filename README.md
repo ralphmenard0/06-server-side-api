@@ -1,4 +1,8 @@
 06 Weather Dashboard
+
+Deployed App URL:
+https://ralphmenard0.github.io/06-server-side-api/
+
 Description
 A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS using the OpenWeather One Call API and using localStorage to store any persistant data.
 
